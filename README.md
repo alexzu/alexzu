@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Zu.
 - 👀 I’m interested in using python for job automation, data analysis, auto-trading and AI.
-- 🌱 I’m currently learning selenium, scipy and tensorflow.
+- 🌱 I’m currently using python, quasar framework and vue3 for financial planning and build up a insurance policy selling assistant tool for my daily usage
 - 💞️ I’m looking to collaborate using/developing technologies to boost the Insurance Sales. 
 - 📫 How to reach me: realark@126.com
 
